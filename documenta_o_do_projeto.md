@@ -98,3 +98,7 @@ Para explorar visualmente a matriz de maturidade da Valoris Corp:
 
 ---
 *Documentação mantida pelo Time de Engenharia de Segurança e Red/Blue Team da Valoris Corp.*
+
+
+
+<img width="1904" height="951" alt="image" src="https://github.com/user-attachments/assets/46e66cc9-b881-413a-b8cd-925959e21e38" />
