@@ -102,3 +102,35 @@ Para explorar visualmente a matriz de maturidade da Valoris Corp:
 
 
 <img width="1904" height="951" alt="image" src="https://github.com/user-attachments/assets/46e66cc9-b881-413a-b8cd-925959e21e38" />
+
+
+
+
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/52f462b8-a2ce-403c-879b-1f36d5021356" />
+Como a empresa é de médio porte, ela possui possibilidades maiores de receber ataques referente a América do Sul, para isso vamos utilizar o filtro. E para o Setor irelmos utiliar o filtro para Financials e verificar quais que são os grupos maliciosos citados
+
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/25bf2c38-ae11-4d05-929f-44ea00eb5d80" />
+
+
+
+
+<img width="1902" height="958" alt="image" src="https://github.com/user-attachments/assets/2dca98bc-e04c-4c61-a25f-c4a6217dd587" />
+
+neste filtro da VeraniX foi encontrado 45 empresas que sofreram ataques, nele demostra qual tipo de ataque que sofreu, dentre eles agora iremos utilizar para fazer o mapeamento dos TTP referente a esses grupos no MITRE ATT&CK(lembrando que coloquei o filtro para mostrar os incidentes desse ano de 01/01 até 31/10)
+
+
+
+
+<img width="1905" height="950" alt="image" src="https://github.com/user-attachments/assets/293faa55-46c7-4dd0-8bc3-34585e6129ec" />
+abrindo mais em detalhe de algum por exemplo, como no exemplo da imagem "H2 Financiamento Ltda", nele demostra qual que foi o tipo de ataque que a corporação recebeu e também demostra a documentação que evidenciam esse ataque realizado. também demostra quem foram os threat actor, que nesse caso é o INC Ransom e outras mais informações
+
+
+
+
+
+
+
+
+
+<img width="1335" height="624" alt="image" src="https://github.com/user-attachments/assets/f1b1af00-9784-4fbe-90ae-aee08ba6e668" />
+em seguida joguei no mitre attack esse autor de ameaça e mapeei os diferentes tipos de TTPs que esse threat actor atua, nele
