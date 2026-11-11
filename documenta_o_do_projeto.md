@@ -131,6 +131,23 @@ abrindo mais em detalhe de algum por exemplo, como no exemplo da imagem "H2 Fina
 
 
 
+<img width="1342" height="612" alt="image" src="https://github.com/user-attachments/assets/89a92cc2-a9c3-41ad-b5d9-4f6e41bae47c" />
+Fazendo as intersecções de todos os threat actors, eu consigo explotar essa tabela na qual demostra por mapa de calor quais que são as técnicas mais utilizadas referente a cada um deles.
+
+
+
+
+
+
+
+<img width="1343" height="607" alt="image" src="https://github.com/user-attachments/assets/8025ffe4-78a1-4bef-ac78-2028f119e646" />
+Neste outro eu compararei diretamente a empresa Valoris Corp com as táticas observadas anteriormente, nisso consigo mapear a maturidade cibernética da empresa além de conseguir ter um mapeamento de possivéis técnicas que estão vulneraveis e escalacionar prioridades
+
+
+
+
+
+
 
 <img width="1335" height="624" alt="image" src="https://github.com/user-attachments/assets/f1b1af00-9784-4fbe-90ae-aee08ba6e668" />
 em seguida joguei no mitre attack esse autor de ameaça e mapeei os diferentes tipos de TTPs que esse threat actor atua, nele
