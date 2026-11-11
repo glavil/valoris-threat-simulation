@@ -121,12 +121,20 @@ neste filtro da VeraniX foi encontrado 45 empresas que sofreram ataques, nele de
 
 
 
+
+
+
+
 <img width="1905" height="950" alt="image" src="https://github.com/user-attachments/assets/293faa55-46c7-4dd0-8bc3-34585e6129ec" />
 abrindo mais em detalhe de algum por exemplo, como no exemplo da imagem "H2 Financiamento Ltda", nele demostra qual que foi o tipo de ataque que a corporação recebeu e também demostra a documentação que evidenciam esse ataque realizado. também demostra quem foram os threat actor, que nesse caso é o INC Ransom e outras mais informações
 
 
 
 
+
+
+<img width="1339" height="615" alt="image" src="https://github.com/user-attachments/assets/9beb42d8-128c-4c45-b0a9-4d852613e049" />
+Nesta parte é realizado o mapemento de cada um dos threat actors de forma individual
 
 
 
