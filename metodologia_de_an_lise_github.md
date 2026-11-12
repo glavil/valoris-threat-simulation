@@ -20,9 +20,9 @@ O processo de avaliação foi dividido em **5 etapas sequenciais**, partindo da 
 
 O primeiro passo da análise consistiu em delimitar o perfil de risco da organização com base em incidentes reais reportados no mercado de finanças.
 
-* **Plataforma Utilizada:** VenariX (Threat Intelligence).
+* **Plataforma Utilizada:** VenariX.
 * **Parâmetros de Filtragem:**
-  * **Região:** América do Sul *(devido ao perfil de operação e maior incidência de campanhas regionais contra a Valoris)*.
+  * **Região:** América do Sul *(devido ao perfil de operação comparado com operações do mesmo porte)*.
   * **Setor:** *Financials* (Instituições financeiras, fintechs, seguradoras e cooperativas de crédito).
   * **Janela Temporal:** Incidentes registrados entre `01/01/2026` e `31/10/2026`.
  
