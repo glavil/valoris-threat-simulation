@@ -16,22 +16,25 @@ O processo de avaliação foi dividido em **5 etapas sequenciais**, partindo da 
 
 ---
 
-## 1. Contextualização e Filtragem de Ameaças Reais
+## 1.Filtragem de Ameaças Reais
 
-O primeiro passo da análise consistiu em delimitar o perfil de risco da organização com base em incidentes reais reportados no mercado, evitando suposições genéricas.
+O primeiro passo da análise consistiu em delimitar o perfil de risco da organização com base em incidentes reais reportados no mercado de finanças.
 
 * **Plataforma Utilizada:** VenariX (Threat Intelligence).
 * **Parâmetros de Filtragem:**
   * **Região:** América do Sul *(devido ao perfil de operação e maior incidência de campanhas regionais contra a Valoris)*.
   * **Setor:** *Financials* (Instituições financeiras, fintechs, seguradoras e cooperativas de crédito).
   * **Janela Temporal:** Incidentes registrados entre `01/01/2026` e `31/10/2026`.
+ 
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/eed09120-bd70-4798-8005-22e02dc6b87a" />
+
+
+
+
+
+<img width="1902" height="958" alt="image" src="https://github.com/user-attachments/assets/bbe54d8e-83c4-4598-b483-017ed52bf2f3" />
+
 * **Resultado Obtido:** O cruzamento retornou **45 empresas do setor financeiro** que sofreram ataques cibernéticos ou vazamentos de dados no período, evidenciando os vetores de intrusão predominantes contra o segmento.
-
-> 🖼️ **[Insira aqui o print dos filtros aplicados na plataforma VenariX]**  
-> *Sugestão de arquivo: `![Filtros VenariX](./assets/01_filtros_venarix.png)`*
-
-> 🖼️ **[Insira aqui o print da listagem dos 45 incidentes encontrados]**  
-> *Sugestão de arquivo: `![Resultados Incidentes](./assets/02_resultados_incidentes.png)`*
 
 ---
 
