@@ -40,15 +40,10 @@ O primeiro passo da análise consistiu em delimitar o perfil de risco da organiz
 
 ## 2. Investigação Forense de Casos Reais (Estudo de Caso)
 
-Para compreender a mecânica operacional dos ataques identificados, aprofundamos a investigação em incidentes específicos extraídos da base de dados.
+Para compreender a mecânica operacional dos ataques identificados, aprofundamos a investigação em incidentes específicos extraídos da base de dados, neles foi possível observar a natrueza do incidente, threat actor atribuído e as evidências do ataque
 
-* **Caso Analisado:** *H2 Financiamento Ltda.* (Setor Financeiro — Brasil).
-* **Natureza do Incidente:** Ataque de *Ransomware* (Outubro de 2026).
-* **Threat Actor Atribuído:** **INC Ransom**.
-* **Evidências Coletadas:** A análise detalhou o perfil da vítima, o resumo da execução do ataque, o status de exposição de informações (*Data Breach Status: Observed*) e as provas documentais que confirmam o comprometimento da infraestrutura.
+<img width="1905" height="950" alt="image" src="https://github.com/user-attachments/assets/4fed3dba-1424-4648-80a9-e622296be66c" />
 
-> 🖼️ **[Insira aqui o print dos detalhes do incidente da H2 Financiamento Ltda.]**  
-> *Sugestão de arquivo: `![Detalhes do Incidente](./assets/03_estudo_caso_inc_ransom.png)`*
 
 ---
 
@@ -58,8 +53,7 @@ A partir dos principais grupos criminosos identificados atuando contra o setor f
 
 * **Objetivo:** Isolar o *modus operandi* de cada adversário em camadas individuais para compreender quais técnicas específicas cada grupo emprega nas fases de Acesso Inicial, Execução, Persistência, Evasão e Impacto.
 
-> 🖼️ **[Insira aqui o print das abas individuais dos Threat Actors no ATT&CK Navigator]**  
-> *Sugestão de arquivo: `![Mapeamento Individual TTPs](./assets/04_mapeamento_individual_actors.png)`*
+<img width="1339" height="615" alt="image" src="https://github.com/user-attachments/assets/125ff1e4-d842-4ced-80bc-12c3df45447d" />
 
 ---
 
