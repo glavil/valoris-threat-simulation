@@ -49,11 +49,12 @@ Para compreender a mecânica operacional dos ataques identificados, aprofundamos
 
 ## 3. Mapeamento Individual de TTPs por Threat Actor
 
-A partir dos principais grupos criminosos identificados atuando contra o setor financeiro na região — como **INC Ransom**, **Akira**, **Qilin**, **The Gentlemen** e **Bear APTs** —, realizou-se o mapeamento isolado de suas Táticas, Técnicas e Procedimentos (**TTPs**) no **MITRE ATT&CK Navigator**.
+A partir dos principais grupos criminosos identificados atuando contra o setor financeiro na região — como **INC Ransom**, **Akira**, **Qilin**, **The Gentlemen** e **Bear APTs** e entre outros, realizou-se o mapeamento isolado de suas Táticas, Técnicas e Procedimentos (**TTPs**) no **MITRE ATT&CK Navigator**.
 
 * **Objetivo:** Isolar o *modus operandi* de cada adversário em camadas individuais para compreender quais técnicas específicas cada grupo emprega nas fases de Acesso Inicial, Execução, Persistência, Evasão e Impacto.
 
-<img width="1339" height="615" alt="image" src="https://github.com/user-attachments/assets/125ff1e4-d842-4ced-80bc-12c3df45447d" />
+<img width="1889" height="893" alt="image" src="https://github.com/user-attachments/assets/955209c6-d18e-434f-b0ef-1df3246d842b" />
+
 
 ---
 
@@ -79,6 +80,7 @@ A etapa final consistiu em confrontar o mapa de calor das ameaças externas dire
 * **Identificação de Vulnerabilidades Críticas:** O cruzamento revelou com precisão cirúrgica quais técnicas altamente exploradas pelos cibercriminosos encontravam-se descobertas (**Score 1 - Pontos Cegos**) ou com visibilidade apenas passiva (**Score 2 - Oportunidades de Melhoria**) na infraestrutura da Valoris.
 * **Escalonamento de Prioridades:** Com base nessas lacunas comprovadas, o time de segurança pôde estruturar um **Roadmap de Remediação orientado a risco**, direcionando esforços de Engenharia de Detecção e investimentos para as defesas mais críticas.
 
+<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/3d7affd4-0b3d-45df-b7ee-439f4236da27" />
 
 
 > *Sugestão de arquivo: `![Gap Analysis Final](./assets/06_comparacao_maturidade_valoris.png)`*
