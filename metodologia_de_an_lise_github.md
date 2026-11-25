@@ -49,7 +49,7 @@ Para compreender a mecânica operacional dos ataques identificados, aprofundamos
 
 ## 3. Mapeamento Individual de TTPs por Threat Actor
 
-A partir dos principais grupos criminosos identificados atuando contra o setor financeiro na região — como **INC Ransom**, **Akira**, **Qilin** e **The Gentlemen** —, realizou-se o mapeamento isolado de suas Táticas, Técnicas e Procedimentos (**TTPs**) no **MITRE ATT&CK Navigator**.
+A partir dos principais grupos criminosos identificados atuando contra o setor financeiro na região — como **INC Ransom**, **Akira**, **Qilin**, **The Gentlemen** e **Bear APTs** —, realizou-se o mapeamento isolado de suas Táticas, Técnicas e Procedimentos (**TTPs**) no **MITRE ATT&CK Navigator**.
 
 * **Objetivo:** Isolar o *modus operandi* de cada adversário em camadas individuais para compreender quais técnicas específicas cada grupo emprega nas fases de Acesso Inicial, Execução, Persistência, Evasão e Impacto.
 
@@ -64,7 +64,9 @@ Com os perfis individuais estruturados, todas as camadas dos *threat actors* for
 * **Metodologia de Intersecção:** Através da função de agregação de pontuações no ATT&CK Navigator, o sistema destacou por gradiente de cores as técnicas estatisticamente **mais utilizadas em comum** pelos grupos que atacam instituições financeiras.
 * **Valor Estratégico:** Essa visão consolidada permitiu identificar os vetores de ataque dominantes e recorrentes no cenário atual, servindo como base empírica para testar a resiliência da Valoris Corp.
 
-> 🖼️ **[Insira aqui o print do Heatmap consolidado dos Threat Actors]**  
+
+<img width="1904" height="912" alt="image" src="https://github.com/user-attachments/assets/2c080ad2-3f87-4c71-aa5d-3d4f4f593b2b" />
+
 > *Sugestão de arquivo: `![Heatmap Threat Actors](./assets/05_heatmap_ameacas.png)`*
 
 ---
@@ -77,7 +79,8 @@ A etapa final consistiu em confrontar o mapa de calor das ameaças externas dire
 * **Identificação de Vulnerabilidades Críticas:** O cruzamento revelou com precisão cirúrgica quais técnicas altamente exploradas pelos cibercriminosos encontravam-se descobertas (**Score 1 - Pontos Cegos**) ou com visibilidade apenas passiva (**Score 2 - Oportunidades de Melhoria**) na infraestrutura da Valoris.
 * **Escalonamento de Prioridades:** Com base nessas lacunas comprovadas, o time de segurança pôde estruturar um **Roadmap de Remediação orientado a risco**, direcionando esforços de Engenharia de Detecção e investimentos para as defesas mais críticas.
 
-> 🖼️ **[Insira aqui o print da comparação final entre a Valoris Corp e o Heatmap de Ameaças]**  
+
+
 > *Sugestão de arquivo: `![Gap Analysis Final](./assets/06_comparacao_maturidade_valoris.png)`*
 
 ---
